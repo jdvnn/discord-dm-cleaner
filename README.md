@@ -3,8 +3,6 @@
 
 **A lightweight utility for cleaning up your own Discord Direct Messages.**
 
-Fast • Simple • Open Source
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node.js](https://img.shields.io/badge/node-%3E%3D18-green)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
