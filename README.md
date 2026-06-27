@@ -1,5 +1,4 @@
 ````md
-<div align="center">
 
 # Discord DM Cleaner
 
