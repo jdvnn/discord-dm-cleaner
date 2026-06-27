@@ -1,4 +1,3 @@
-````md
 
 # Discord DM Cleaner
 
